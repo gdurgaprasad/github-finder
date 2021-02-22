@@ -1,5 +1,5 @@
-import GitHub from "./github";
-import UI from "./ui";
+import GitHub from "github";
+import UI from "ui";
 
 const github = new GitHub();
 const ui = new UI();
